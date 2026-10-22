@@ -1,0 +1,15 @@
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\bin\Debug\net10.0\QbCalculator.exe
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\bin\Debug\net10.0\QbCalculator.deps.json
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\bin\Debug\net10.0\QbCalculator.runtimeconfig.json
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\bin\Debug\net10.0\QbCalculator.dll
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\bin\Debug\net10.0\QbCalculator.pdb
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\QbCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\QbCalculator.AssemblyInfoInputs.cache
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\QbCalculator.AssemblyInfo.cs
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\QbCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\QbCalculator.dll
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\refint\QbCalculator.dll
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\QbCalculator.pdb
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\QbCalculator.genruntimeconfig.cache
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\ref\QbCalculator.dll
+C:\Users\MAlmajali\Desktop\Majali\QbCalculator\QbCalculator\obj\Debug\net10.0\QbCalcul.B9D297F2.Up2Date
